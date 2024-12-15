@@ -122,8 +122,8 @@ Estos métodos aseguran que la base de datos se mantenga actualizada y permiten 
 
 ### Paso 1: Clonar el repositorio
 ```bash
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DEL_REPOSITORIO>
+git clone https://github.com/firucc/Proyecto-FastAPI.git
+cd Proyecto-FastAPI
 ```
 
 ### Paso 2: Crear y configurar los contenedores con Docker
